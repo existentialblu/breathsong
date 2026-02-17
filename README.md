@@ -59,7 +59,7 @@ Philips gives you numbered binary files with model-dependent byte offsets, optio
 
 ## Credits
 
-Built by a sleep apnea patient who got tired of *looking* at her data and wanted to *hear* it instead.
+Built by a UARS patient who got tired of *looking* at her data and wanted to *hear* it instead.
 
 Made with help from Claude, who wrote most of the code while being gently bullied into adding more audio channels.
 
